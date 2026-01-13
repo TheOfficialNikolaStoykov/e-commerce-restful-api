@@ -1,4 +1,5 @@
 # E-commerce RESTful API
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-5469d4?style=for-the-badge&logo=stripe&logoColor=ffffff) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 This project provides a comprehensive E-commerce backend API built with Django REST framework. The API includes core functionalities for managing users, products, orders, carts, and shipping. It also supports user authentication, product reviews, and integrations with third-party services like Stripe and Shippo for payments and shipping.
 
